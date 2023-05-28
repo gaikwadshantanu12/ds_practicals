@@ -1,4 +1,4 @@
-# ds_practicals
+# DS Practicals
 
 1) Data Wrangling 1   
 Perform the following operations using Python on any open source dataset (e.g., data.csv) :    
